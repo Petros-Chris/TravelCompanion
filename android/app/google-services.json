@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725296466738",
+    "project_id": "travel-companion-063",
+    "storage_bucket": "travel-companion-063.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725296466738:android:d11a5427e53cf03631652b",
+        "android_client_info": {
+          "package_name": "com.example.travel_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725296466738-63mtl8ubk4rfml8va3mpnns6stnk6s21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_companion",
+            "certificate_hash": "4991e6622b4873b8742e64383373ed4d89a44d5c"
+          }
+        },
+        {
+          "client_id": "725296466738-55vcb6jr0l4540bdr1lorb8tvtj3jar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3l--8xE6UcYmTKkk014qOt-lD33ZiWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725296466738-55vcb6jr0l4540bdr1lorb8tvtj3jar0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
