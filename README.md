@@ -1,16 +1,12 @@
 # travel_companion
 
-A new Flutter project.
+A application where you can look at a map, add personal markers on the map, and save points in the map with photos and descriptions.
 
-## Getting Started
+Currently, only the login system is implemented.
 
-This project is a starting point for a Flutter application.
+# How To Run
+Simply install the apk provided in the releases tab and install it onto your phone.
 
-A few resources to get you started if this is your first Flutter project:
+# State Management Used
+To manage the screen size and the user profile, I used Provider. This was so I could easily update the UI with new data when required.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
